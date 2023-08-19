@@ -1,0 +1,11 @@
+{
+  "backgroundColor": "#27374D",
+  "secondBackgroundColor": "#13131d",
+  "primaryColors": "#ffffff",
+  "secondaryColors": "#06e201",
+  "primaryFont": "Poppins, sans serif",
+  "secondFont" : "Roboto, sans serif",
+
+  "shadowOne": " box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.8);"
+
+}
